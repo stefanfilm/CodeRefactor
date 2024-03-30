@@ -16,7 +16,7 @@ Open the index.html file in the default browser to view the code online
 
 Access the repository and open the HTML and CSS in Visual Studio Code.
 
-    ```md
+    ```markdown
     ![HTML and CSS side by side](assets/images/HTML_CSS_SidebySide.png)
     ```
 
@@ -24,11 +24,9 @@ Access the repository and open the HTML and CSS in Visual Studio Code.
 
 I followed code provided by UC Berkeley Full Stack Coding Bootcamp.
 
-
 ## License
 
 The code belongs to UC Berkeley Full Stack Coding Bootcamp.
 
 ## Badges
-![Module1challenge]https://img.shields.io/badge/HTML-CSS
-![Module1challenge]https://img.shields.io/badge/CSS-HTML
+![HTML-CSS](https://img.shields.io/badge/HTML-CSS-green)
