@@ -16,9 +16,7 @@ Open the index.html file in the default browser to view the code online
 
 Access the repository and open the HTML and CSS in Visual Studio Code.
 
-    ```markdown
     ![HTML and CSS side by side](assets/images/HTML_CSS_SidebySide.png)
-    ```
 
 ## Credits
 
