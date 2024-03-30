@@ -1,8 +1,8 @@
-# <Horizon-Refractoring-Module-1-Challenge>
+# <Horizon-Refactoring-Module-1-Challenge>
 
 ## Description
 
-My motivation to create this project was to change the code to semantic HTML and create a more accessible webpage. I was refractoring this code to make the code user friendly for additional team members and to make the code accessible to users with disabilities. This solves the problem of difficulty collaborating with other coders and provides access to users with disabilities. I learned how to write semantic HTML code and work with CSS while refractoring the code.
+My motivation to create this project was to change the code to semantic HTML and create a more accessible webpage. I refactored this code to make the code user friendly for additional team members and to make the code accessible to users with disabilities. This solves the problem of difficulty collaborating with other coders and provides access to users with disabilities. I learned how to write semantic HTML code and work with CSS while refactoring the code.
 
 ## Installation
 
