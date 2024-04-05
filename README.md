@@ -4,6 +4,10 @@
 
 My motivation to create this project was to change the code to semantic HTML and create a more accessible webpage. I refactored this code to make the code user friendly for additional team members and to make the code accessible to users with disabilities. This solves the problem of having difficulty collaborating with other coders and provides access to users with disabilities. I learned how to write semantic HTML code and work with CSS while refactoring the code.
 
+## Deployed Site
+
+https://stefanfilm.github.io/Module1Challenge/
+
 ## Installation
 
 Access the code at https://github.com/stefanfilm/Module1Challenge 
